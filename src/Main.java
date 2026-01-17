@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println("Hola!");
 
+        System.out.println("I am adding some authorization logic");
+
         app.start();
 
         db.close();
