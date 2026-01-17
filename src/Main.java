@@ -17,6 +17,8 @@ public class Main {
 
         MyApplication app = new MyApplication(controller);
 
+        System.out.println("Hola!");
+
         app.start();
 
         db.close();
